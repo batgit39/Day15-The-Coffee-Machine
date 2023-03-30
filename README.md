@@ -1,5 +1,6 @@
 # Day15-The-Coffee-Machine
 This is a basic coffee machine simulator which lets you order 3 types of coffee via coins only. The owner can check on the resources as well as profits via his code.
+
 ![1-interface](https://user-images.githubusercontent.com/86790253/228901859-71c3527b-fbc8-4fb1-8969-06132e3808a4.png)
 ![2-ordering-latte](https://user-images.githubusercontent.com/86790253/228901872-261cf0e4-aba0-483a-a04a-f21ae494d1c9.png)
 ![3-latte-payment-coffee](https://user-images.githubusercontent.com/86790253/228901874-ac0e22b7-7f4f-48fb-8d9c-021cdaf26aba.png)
